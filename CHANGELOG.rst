@@ -1,28 +1,14 @@
 Change history
 ==============
 
-2.9.0 (2026-05-05)
+2.5.1 (2026-06-03)
 ------------------
-
-2.8.1 (2025-07-29)
-------------------
-* fix cmake deprecation (`#33 <https://github.com/ros2/unique_identifier_msgs/issues/33>`_)
-* Contributors: mosfet80
-
-2.8.0 (2025-04-25)
-------------------
-* Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#31 <https://github.com/ros2/unique_identifier_msgs/issues/31>`_)
-* Contributors: Chris Lalancette
-
-2.7.0 (2024-06-25)
-------------------
-* Add missing build_export_depend on rosidl_core_runtime (`#30 <https://github.com/ros2/unique_identifier_msgs/issues/30>`_)
-* Contributors: Scott K Logan
-
-2.6.0 (2024-04-29)
-------------------
-* Update quality declaration doc (`#29 <https://github.com/ros2/unique_identifier_msgs/issues/29>`_)
-* Contributors: Christophe Bedard
+* Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#31 <https://github.com/ros2/unique_identifier_msgs/issues/31>`_) (`#32 <https://github.com/ros2/unique_identifier_msgs/issues/32>`_)
+  They are both outdated and both no longer serving their
+  intended purpose.
+  (cherry picked from commit 2640ac258049686f27bb3f1d43ce558e942ae8e8)
+  Co-authored-by: Chris Lalancette <clalancette@gmail.com>
+* Contributors: mergify[bot]
 
 2.5.0 (2023-08-21)
 ------------------
