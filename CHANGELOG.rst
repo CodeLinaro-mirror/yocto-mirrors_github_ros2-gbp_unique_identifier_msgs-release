@@ -1,11 +1,23 @@
 Change history
 ==============
 
-2.7.1 (2026-07-15)
+2.9.1 (2026-11-03)
 ------------------
-* fix cmake deprecation (`#33 <https://github.com/ros2/unique_identifier_msgs/issues/33>`_) (`#34 <https://github.com/ros2/unique_identifier_msgs/issues/34>`_)
+* use C++ 20 in default. (`#35 <https://github.com/ros2/unique_identifier_msgs//issues/35>`_)
+* Contributors: Tomoya Fujita
+
+2.9.0 (2026-05-05)
+------------------
+
+2.8.1 (2025-07-29)
+------------------
+* fix cmake deprecation (`#33 <https://github.com/ros2/unique_identifier_msgs/issues/33>`_)
+* Contributors: mosfet80
+
+2.8.0 (2025-04-25)
+------------------
 * Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#31 <https://github.com/ros2/unique_identifier_msgs/issues/31>`_)
-* Contributors: Chris Lalancette, mergify[bot]
+* Contributors: Chris Lalancette
 
 2.7.0 (2024-06-25)
 ------------------
